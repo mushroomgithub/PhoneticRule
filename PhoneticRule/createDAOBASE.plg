@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: createDAOBASE - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\MoGu\AppData\Local\Temp\RSP1590.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/createDAOBASE.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"E:\MFC¡∑œ∞\Test¡∑œ∞\createDAOBASE\createDAOBASEDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\MoGu\AppData\Local\Temp\RSP1590.tmp" 
+Creating temporary file "C:\Users\MoGu\AppData\Local\Temp\RSP1591.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/createDAOBASE.pdb" /debug /machine:I386 /out:"Debug/createDAOBASE.exe" /pdbtype:sept 
+".\Debug\createDAOBASE.obj"
+".\Debug\createDAOBASEDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\createDAOBASE.res"
+]
+Creating command line "link.exe @C:\Users\MoGu\AppData\Local\Temp\RSP1591.tmp"
+<h3>Output Window</h3>
+Compiling...
+createDAOBASEDlg.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+createDAOBASE.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

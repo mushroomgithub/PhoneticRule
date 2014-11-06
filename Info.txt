@@ -1,0 +1,9 @@
+要想完美显示国际音标，必须安装音标字体库；
+
+    本程序提供两种音标字体库：Zyen Tahoma.ttf linggoes.ttf
+
+    字体库安装步骤如下：
+
+        将字体库文件直接拷贝到C盘路径：C:\Windows\Fonts下，字体库会自动安装。
+
+        之后将程序显示音标的字体设置成你安装的字体库的字体名称。（如：m_FlexGrid.put_FontName(_T("Lingoes Unicode"));//设置MSFlexGrid字体）
