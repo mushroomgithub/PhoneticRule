@@ -41,4 +41,4 @@
 ##展望
 1. if you have some good ideas for these problems,please tell me,I will quite happy.
 2. My Email:ms15941699808@163.com
-3. You can also Pull Requests at my [github](https://github.com/mushroomgithub/PhoneticRule)
+3. You can also Pull Requests at my [GitHub](https://github.com/mushroomgithub/PhoneticRule)
