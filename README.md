@@ -30,3 +30,15 @@
 **规则说明窗口:**
 
 ![PhoneticRuleInfo](./pic/PhoneticRule1.png)
+
+##存在问题
+1. 目前该程序存在的问题是音标不能正常显示,试过很多方法,最终也没有解决.
+2. 规则测试的不是很完善,还存在bug.
+3. 之前对于音标不能正常显示的解决办法如下:
+    + 修改字符编码,将项目从多字符集编码修改使用Unicode编码
+    + 安装国际音标字体库,比如金山音标字体库,Lingsgo等字体库,之后将使用的显示字体的名字设置为这些字体库名,可惜最终音标还是不能完美显示.
+
+##展望
+1. if you have some good ideas for these problems,please tell me,I will quite happy.
+2. My Email:ms15941699808@163.com
+3. You can also Pull Requests at my [github]()
